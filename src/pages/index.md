@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Site static de l'IFR
-image: /img/home-jumbotron.jpg
+image: /img/roman-synkevych-vxinuov1n84-unsplash.jpg
 heading: Réalisé avec Gatsby
 subheading: Hébergé par netfly CMS
 mainpitch:
