@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Site static de l'IFR
+title: Site static de l'IFR module 5
 image: /img/roman-synkevych-vxinuov1n84-unsplash.jpg
 heading: Réalisé avec Gatsby
 subheading: Hébergé par netfly CMS
